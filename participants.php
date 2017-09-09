@@ -8397,7 +8397,28 @@ include('participants-head.php');
 </div>
 <!--  Each Participants ends here  -->
 
-
+<!--  Each Participant starts here  -->
+<div class="p-card">
+    <div class="v-center">
+        <div class="p-card-photo" style="background-image: url(http://hng.fun/profile/louiseyoma/images/profile_image.jpg); background-size: cover; background-repeat: no-repeat; background-position: center center; "></div>
+        <div class="p-card-info">
+            <a href="http://hng.fun/profile/louiseyoma">
+                <!--Profile Link-->
+                <h3 class="p-card-title">Louis Eyoma</h3>
+                <!--Profile Name-->
+            </a>
+            <p class="p-card-description">louiseyoma@yahoo.com</p>
+            <!--Email-->
+        </div>
+        <div class="p-team">
+            <a href="#">
+                <h3 class="p-card-title">Team-Achievement</h3>
+                <!--Team-->
+            </a>
+        </div>
+    </div>
+</div>
+<!--  Each Participants ends here  -->
 
 
 <?php include "footer.php"?>
